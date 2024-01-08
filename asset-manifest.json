@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.ce1e99dd.css",
-    "main.js": "/react-homework-template/static/js/main.00893616.js",
-    "static/media/dresser1.webp": "/react-homework-template/static/media/dresser1.0fca6e6340e6bc12bdd8.webp",
-    "static/media/sofa1.webp": "/react-homework-template/static/media/sofa1.9d3a9880bb3bd8cf147e.webp",
-    "static/media/bookshelf1.jpg": "/react-homework-template/static/media/bookshelf1.bc0fa85f6dc133f35282.jpg",
-    "static/media/closet1.jpg": "/react-homework-template/static/media/closet1.903e8c72be19fc790223.jpg",
-    "static/media/table2.webp": "/react-homework-template/static/media/table2.b31b6bd399a9e8c83fef.webp",
-    "static/media/stool1.jpg": "/react-homework-template/static/media/stool1.924e30f935bfcab0265d.jpg",
-    "static/media/table-1.jpg": "/react-homework-template/static/media/table-1.2c42f49223c02989841a.jpg",
-    "static/media/chair1.jpg": "/react-homework-template/static/media/chair1.6580738bcc6bafd667c6.jpg",
-    "static/media/desk1.webp": "/react-homework-template/static/media/desk1.198cc007417f78cc01de.webp",
-    "static/media/leaving-room.jpg": "/react-homework-template/static/media/leaving-room.529626e4949a36e654e1.jpg",
-    "static/media/bed1.webp": "/react-homework-template/static/media/bed1.2a5eb4e349d967d4e87a.webp",
-    "index.html": "/react-homework-template/index.html",
-    "main.ce1e99dd.css.map": "/react-homework-template/static/css/main.ce1e99dd.css.map",
-    "main.00893616.js.map": "/react-homework-template/static/js/main.00893616.js.map"
+    "main.css": "/react-web-store/static/css/main.ba8cea1a.css",
+    "main.js": "/react-web-store/static/js/main.8e2962ec.js",
+    "static/media/dresser1.webp": "/react-web-store/static/media/dresser1.0fca6e6340e6bc12bdd8.webp",
+    "static/media/sofa1.webp": "/react-web-store/static/media/sofa1.9d3a9880bb3bd8cf147e.webp",
+    "static/media/bookshelf1.jpg": "/react-web-store/static/media/bookshelf1.bc0fa85f6dc133f35282.jpg",
+    "static/media/closet1.jpg": "/react-web-store/static/media/closet1.903e8c72be19fc790223.jpg",
+    "static/media/table2.webp": "/react-web-store/static/media/table2.b31b6bd399a9e8c83fef.webp",
+    "static/media/stool1.jpg": "/react-web-store/static/media/stool1.924e30f935bfcab0265d.jpg",
+    "static/media/table-1.jpg": "/react-web-store/static/media/table-1.2c42f49223c02989841a.jpg",
+    "static/media/chair1.jpg": "/react-web-store/static/media/chair1.6580738bcc6bafd667c6.jpg",
+    "static/media/desk1.webp": "/react-web-store/static/media/desk1.198cc007417f78cc01de.webp",
+    "static/media/leaving-room.jpg": "/react-web-store/static/media/leaving-room.529626e4949a36e654e1.jpg",
+    "static/media/bed1.webp": "/react-web-store/static/media/bed1.2a5eb4e349d967d4e87a.webp",
+    "index.html": "/react-web-store/index.html",
+    "main.ba8cea1a.css.map": "/react-web-store/static/css/main.ba8cea1a.css.map",
+    "main.8e2962ec.js.map": "/react-web-store/static/js/main.8e2962ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce1e99dd.css",
-    "static/js/main.00893616.js"
+    "static/css/main.ba8cea1a.css",
+    "static/js/main.8e2962ec.js"
   ]
 }
