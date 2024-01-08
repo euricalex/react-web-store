@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Dining Table",
+      "description": "Sturdy and stylish dining table made from natural wood, perfect for family meals.",
+      "price": 599.99,
+      "photo": "images/table1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Soft Armchair",
+      "description": "Comfortable soft armchair with armrests, ideal for relaxing in the living room.",
+      "price": 349.99,
+      "photo": "images/chair1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wardrobe",
+      "description": "Spacious wardrobe with shelves and hangers for storing your clothes and accessories.",
+      "price": 799.99,
+      "photo": "images/closet1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Corner Sofa",
+      "description": "Modern corner sofa with soft cushions, creating coziness in your living room.",
+      "price": 899.99,
+      "photo": "images/sofa1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bar Stool",
+      "description": "High bar stool with a comfortable seat and footrest, perfect for your bar counter.",
+      "price": 129.99,
+      "photo": "images/stool1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chest of Drawers",
+      "description": "Elegant chest of drawers with multiple drawers for storing small items and accessories.",
+      "price": 449.99,
+      "photo": "images/dresser1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kitchen Table",
+      "description": "Compact kitchen table, perfect for small kitchens or dining areas.",
+      "price": 299.99,
+      "photo": "images/table2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Double Bed",
+      "description": "Comfortable and stylish double bed with an exquisite design.",
+      "price": 699.99,
+      "photo": "images/bed1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bookshelf",
+      "description": "Tall bookshelf with shelves for storing books, decorative items, and collections.",
+      "price": 179.99,
+      "photo": "images/bookshelf1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Computer Desk",
+      "description": "Modern computer desk with convenient compartments for your computer and accessories.",
+      "price": 499.99,
+      "photo": "images/desk1.jpg"
+    }
+  ]
+  
